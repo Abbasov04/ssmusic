@@ -31,7 +31,7 @@ OWNER_ID = int(getenv("OWNER_ID", "6882108989"))
 # Your heroku app name
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", "musicbotbot")
 # Get it from http://dashboard.heroku.com/account
-HEROKU_API_KEY = getenv("HEROKU_API_KEY", "6572973193:AAG4SVjOvaaLII-_DAsoYEClg74CsxV9MuI")
+HEROKU_API_KEY = getenv("HEROKU_API_KEY", "HRKU-9952923a-6495-4f9c-a180-bc6c085027fb")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
@@ -67,7 +67,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @Venom_string_robot on Telegram
-STRING1 = getenv("STRING_SESSION", "AgFJ9hoARoFmHWgcbHcqEyyB5h5qXM6YLllucp2ELk-13nlGOKTx2fNuFLHDQ2r6YuAbaV2NwbENVcjKbHiPEE0F-EvASz73ibLcuIAHE274yLZw6U_jnPgpuJorZwm8inGI9CaWFcFxiJ4tk3gL_Hq8fnYDddVxmFU1QTO7QoJQwfcvu1cjf_yzOMPZwTSq4Kl8xQgk_TKJB8bJWvkY2aWEp-B3H_yvmQLNipROcj61loHMjPYy8B2v3yEwKvUmp4Aq6QOGSBxIZt_bCxv7CTJjBfQU896seF6PeiI7-S-UfGD07eCyxXSomOrcFeP-02FwRJmQZgMw4QdJUNZdIRmNdR8HQgAAAAGzgns4AA")
+STRING1 = getenv("STRING_SESSION", "AgFJ9hoABOsIcIxFzf-ZWYqBB4IoipE_57ntaktRtfICwUTxUnZGDr8ni_5bOXhjbC24KQIzj9mHHIJlfkaCqA5bfUpR51IFqdudGiwE-xQUjZgud6sZfoJWfWANzJwN6zHmzZdUGiAS7pOdmyS5TbCHgxC0aoIx6DbE0HoAfiZakSj6jDgq41T56TLuuNQRkZV_VWVIOFwFctfMDw5buBTf8b50rjxzBmTHjcT9X6-kmb0S_j7ivE4dbphK1DoUI7waddoFInm8JK0aq7O7FlRg1x_xUeZggS-nB8jhuGvUQfLB6zSW36VQ5t4DeNCIIKo8oQQntsrAhE8MRPNQvH7sDVvytwAAAAGzgns4AA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
